@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-t5mxl4.steadycraftsolutions.com/sitemap.xml
